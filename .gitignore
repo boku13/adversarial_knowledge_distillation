@@ -1,4 +1,3 @@
-./random
-./data
-.vscode
-./weights
+random/
+data/
+weights/
